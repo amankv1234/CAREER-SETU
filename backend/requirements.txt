@@ -14,5 +14,3 @@ httpx
 python-dotenv
 pypdf
 joblib
-sentence-transformers
-torch
